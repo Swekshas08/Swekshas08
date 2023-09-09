@@ -1,4 +1,4 @@
-![logo](Github Banner.jpg)
+![logo](https://github.com/Swekshas08/Swekshas08/blob/c13a6de05e3cc1e1405d8df03b415c6111fde2dd/Github%20Banner.jpg))
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swekshas08&label=Profile%20views&color=0e75b6&style=flat" alt="swekshas08"> </p>
