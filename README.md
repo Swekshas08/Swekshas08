@@ -6,13 +6,13 @@
 ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
 ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and NextJS**
 
 - 💬 Ask me about **MERN Stack, Front End Web Development**
 
 - 📫 How to reach me **swekshas882@gmail.com**
   
--🌱  I'm on track for learning more about Full Stack Development, Machine Learning & Algorithms.
+-🌱  I'm on track for learning more about Full Stack Development.
 
 
 <h3 align="left">Connect with me:</h3>
