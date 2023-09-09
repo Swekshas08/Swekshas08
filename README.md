@@ -1,7 +1,7 @@
  [!([https://cutshort.io/blog/career-advice/full-stack-development-become-full-stack-developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutshort.io%2Fblog%2Fcareer-advice%2Ffull-stack-development-become-full-stack-developer&psig=AOvVaw2OuKD0nDpbjUymH332YBOj&ust=1694326922691000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiJuOXxnIEDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Sweksha Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/creativemonster-monster-code-monsters-H7f5ZGjvKXBaLbBigO">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/creativemonster-monster-code-monsters-H7f5ZGjvKXBaLbBigO"> />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swekshas08&label=Profile%20views&color=0e75b6&style=flat" alt="swekshas08"> /> </p>
 
 - 🌱 I’m currently learning **React**
