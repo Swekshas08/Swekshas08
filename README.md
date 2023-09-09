@@ -1,4 +1,4 @@
- ![](https://www.canva.com/design/DAFt7qnQIAA/IldRYNsAt3tjKx1t3ivnrw/watch?utm_content=DAFt7qnQIAA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+ ![[MasterHead](https://www.canva.com/design/DAFt7qnQIAA/IldRYNsAt3tjKx1t3ivnrw/watch?utm_content=DAFt7qnQIAA&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)]
 <h1 align="center">Hi 👋, I'm Sweksha Sharma</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> 
