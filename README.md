@@ -1,4 +1,4 @@
-### [![MasterHead](https://cutshort.io/blog/career-advice/full-stack-development-become-full-stack-developer)]
+ [![MasterHead](https://cutshort.io/blog/career-advice/full-stack-development-become-full-stack-developer)]
 <h1 align="center">Hi 👋, I'm Sweksha Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/creativemonster-monster-code-monsters-H7f5ZGjvKXBaLbBigO"
