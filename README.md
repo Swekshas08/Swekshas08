@@ -1,4 +1,4 @@
-![logo][(https://github.com/Swekshas08/Swekshas08/blob/main/Linkedin%20Profile%20Sweksha.jpg)]
+![logo][https://github.com/Swekshas08/Swekshas08/blob/main/Linkedin%20Profile%20Sweksha.jpg]
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swekshas08&label=Profile%20views&color=0e75b6&style=flat" alt="swekshas08"> </p>
